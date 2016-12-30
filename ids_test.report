@@ -1,0 +1,18 @@
+IDS
+
+Input Packets:	Count	Rate;
+					
+From Hosts in Network:	6744;	16.1882289684;
+					
+From LB-2:	 5723;	13.7478920539;
+					
+From Log server:	 2;	0.497265042268;
+					
+
+Output Packets:	Count	Rate;
+					
+To Hosts in network:	5723;	13.7478920539;
+					
+To LB-2:	 6020;	13.7478920539;
+					
+To Log Server:	 14;	0.18384042651

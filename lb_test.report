@@ -1,0 +1,30 @@
+LB-1
+
+Input Packets:	Count	Rate;
+					
+From hosts in network:	4507;	14.5096902968;
+					
+From DNS servers:	 12;	0.0647277120911;
+					
+
+Output Packets:	Count	Rate;
+					
+To hosts in network:	11;	0.0397991229721;
+					
+To DNS servers:	 2687;	0.0647277120911;
+					
+
+LB-2
+
+Input Packets:	Count	Rate;
+					
+From hosts in network:	6021;	14.6098223818;
+					
+From DNS servers:	 5728;	13.854824275;
+					
+
+Output Packets:	Count	Rate;
+					
+To hosts in network:	5721;	14.9140117675;
+					
+To DNS servers:	 6017;	13.854824275

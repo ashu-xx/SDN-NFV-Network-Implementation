@@ -1,0 +1,14 @@
+NAPT
+
+Input Packets:	Count	Rate;
+					
+From Pvt Network:	4;	4.11522633745;
+					
+Towards Pvt Network::	 4;	0.543921675279;
+					
+
+Output Packets:	Count	Rate;
+					
+To Pb and DMZ network:	4;	0.544217687075;
+					
+To Pvt Network:	 4;	0.543921675279
